@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "LIKE THAT",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-02-20T14:11:19.981172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/01_Hit_Me_Like_That_Snare_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/02_Hit_Me_Like_That_Snare_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be Like That - feat. Swae Lee & Khalid",
+      "artist": "Kane Brown feat. Swae Lee & Khalid",
+      "has_synced": true,
+      "path": "select/03_Be_Like_That_-_feat._Swae_Lee_&_Khalid_Kane_Brown_feat._Swae_Lee_&_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Be Like That (feat. Swae Lee & Khalid)",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/04_Be_Like_That_(feat._Swae_Lee_&_Khalid)_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happens Like That",
+      "artist": "Granger Smith",
+      "has_synced": true,
+      "path": "select/05_Happens_Like_That_Granger_Smith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happens Like That",
+      "artist": "Smith Granger",
+      "has_synced": true,
+      "path": "select/06_Happens_Like_That_Smith_Granger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can Love You Like That",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/07_I_Can_Love_You_Like_That_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wanna Be Loved Like That",
+      "artist": "The Chapmans",
+      "has_synced": true,
+      "path": "select/08_I_Wanna_Be_Loved_Like_That_The_Chapmans.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'd Like To Have A Problem Like That",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/09_I'd_Like_To_Have_A_Problem_Like_That_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kissed Me Like That",
+      "artist": "Megan Dawson",
+      "has_synced": true,
+      "path": "select/10_Kissed_Me_Like_That_Megan_Dawson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life's Too Short To Love Like That",
+      "artist": "Faith Hill",
+      "has_synced": false,
+      "path": "select/11_Life's_Too_Short_To_Love_Like_That_Faith_Hill.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life's Too Short to Love Like That (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": false,
+      "path": "select/12_Life's_Too_Short_to_Love_Like_That_(Album_Version)_Faith_Hill.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love You Like That",
+      "artist": "Canaan Smith",
+      "has_synced": true,
+      "path": "select/13_Love_You_Like_That_Canaan_Smith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Gonna Feel Like That Again",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/14_Never_Gonna_Feel_Like_That_Again_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nobody Leaves A Girl Like That",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/15_Nobody_Leaves_A_Girl_Like_That_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Somebody Like That (Acoustic)",
+      "artist": "Tenille Arts",
+      "has_synced": true,
+      "path": "select/16_Somebody_Like_That_(Acoustic)_Tenille_Arts.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Something Like That",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/17_Something_Like_That_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Something Like That",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/18_Something_Like_That_Tim_McGraw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIKE THAT",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_LIKE_THAT_BABYMONSTER.txt"
+    }
+  ]
+}
